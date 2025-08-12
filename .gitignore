@@ -1,4 +1,4 @@
-/initrd
+/initrd_alpine/
 /initrd_base/lib/modules
 /initrd_ums/lib/modules
 /initrd_base/.commit
